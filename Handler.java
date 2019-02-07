@@ -18,6 +18,8 @@ public class Handler {
 
     }
 
+
+
     public void render(Graphics g)
     {
 
@@ -38,4 +40,6 @@ public class Handler {
     {
         this.object.remove(object);
     }
+
+
 }

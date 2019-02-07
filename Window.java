@@ -1,6 +1,5 @@
 package pack;
 
-
 import java.awt.Canvas;
 import java.awt.Dimension;
 import javax.swing.JFrame;
@@ -10,7 +9,8 @@ public class Window extends Canvas {
 
     private static final long serialVersionUID = 6698743964847231054L;
 
-   // int width;
+    // int width;
+
    // int height;
    // String title;
 

@@ -1,6 +1,9 @@
 package pack;
 
 public enum ID {
-    Organism(),
-
+    Sheep(),
+    Grass(),
+    Wolf(),
+    Cat(),
+    Mouse(),
 }
